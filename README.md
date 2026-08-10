@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/ink.jpg" width="650">
+<img src="./assets/ink.jpg" width="150">
 
 # 𝑴𝒂𝒓𝒄𝒆𝒍𝒐 𝑾𝒂𝒎𝒊𝒍𝒆𝒓𝒊𝒔
 
