@@ -1,58 +1,44 @@
+<div align="center">
+
+<img src="./assets/ink-banner.jpg" width="850">
+
 # 𝑴𝒂𝒓𝒄𝒆𝒍𝒐 𝑾𝒂𝒎𝒊𝒍𝒆𝒓𝒊𝒔
 
-`developer in progress` · `ADS student` · `🇧🇷`
+**Estudante de Análise e Desenvolvimento de Sistemas** · 🇧🇷
 
-*building things that make sense.*
-
-[ about ](#about) · [ projects ](#projects) · [ stack ](#stack)
+</div>
 
 ---
 
-## about
+### sobre
 
-🎓 **Análise e Desenvolvimento de Sistemas**
+Desenvolvimento de software · Automação · Desenvolvimento web
 
-💻 Interessado em desenvolvimento de software, automação
-e criação de projetos próprios.
-
-📚 Atualmente explorando **Python, JavaScript e desenvolvimento web**.
+Atualmente estudando **Python, JavaScript e C**.
 
 ---
 
-## projects
+### projetos
 
-### ◈ Einar — Repositório de Provas
+**◈ Einar — Repositório de Provas**
 
-Um projeto autoral criado para organizar e facilitar
-o acesso às provas da faculdade.
-
-O sistema utiliza um **bot do Telegram** para receber,
-organizar e disponibilizar as avaliações de forma padronizada.
+Bot do Telegram desenvolvido para receber, organizar
+e disponibilizar as avaliações da faculdade.
 
 `Python` · `Telegram` · `GitHub`
 
 ---
 
-## stack
-
-### languages
+### tecnologias
 
 `Python` · `JavaScript` · `C`
 
-### web
-
-`HTML` · `CSS` · `JavaScript`
-
-### tools
-
-`Git` · `GitHub` · `VS Code`
+`HTML` · `CSS` · `Git` · `GitHub` · `VS Code`
 
 ---
 
-## currently learning
+<div align="center">
 
-`Python` · `Algorithms` · `Web Development`
+**Análise e Desenvolvimento de Sistemas**
 
----
-
-*made with curiosity & a lot of debugging.*
+</div>
