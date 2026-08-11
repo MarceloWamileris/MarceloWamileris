@@ -1,48 +1,21 @@
 <div align="center">
 <img src="./assets/ink.jpg" width="100%">
 </div>
-<br>
 
-<table width="90%" align="center">
-<tr>
-<td width="33%" align="center" valign="top">
+<br><br>
 
-### Sobre
+<div align="center">
 
 Desenvolvimento de software, automação e desenvolvimento web.
-
 Atualmente estudando Python, JavaScript e C.
 
-</td>
-<td width="33%" align="center" valign="top">
+<br><br>
 
-### Projetos
-
-◈ **Einar** — Repositório de Provas
-
+**Einar** — Repositório de Provas
 Bot do Telegram para receber, organizar e disponibilizar as avaliações da faculdade.
 
-`Python` `Telegram`
+<br><br>
 
-</td>
-<td width="33%" align="center" valign="top">
+`Python` `JavaScript` `C` `HTML` `CSS` `Git` `GitHub`
 
-### Tecnologias
-
-`Python`
-
-`JavaScript`
-
-`C`
-
-`HTML`
-
-`CSS`
-
-`Git`
-
-`GitHub`
-
-</td>
-</tr>
-</table>
+</div>
