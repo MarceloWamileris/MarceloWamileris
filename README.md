@@ -1,9 +1,5 @@
 <div align="center">
 <img src="./assets/ink.jpg" width="100%">
-<br><br>
-
-<sub>Estudante de ADS · Desenvolvedor em formação · 🇧🇷</sub>
-
 </div>
 <br>
 
@@ -11,7 +7,7 @@
 <tr>
 <td width="33%" valign="top">
 
-**Sobre**
+### Sobre
 
 Desenvolvimento de software, automação e desenvolvimento web.
 
@@ -20,7 +16,7 @@ Atualmente estudando Python, JavaScript e C.
 </td>
 <td width="33%" valign="top">
 
-**Projetos**
+### Projetos
 
 ◈ **Einar** — Repositório de Provas
 
@@ -31,7 +27,7 @@ Bot do Telegram para receber, organizar e disponibilizar as avaliações da facu
 </td>
 <td width="33%" valign="top">
 
-**Tecnologias**
+### Tecnologias
 
 `Python` `JavaScript` `C`
 `HTML` `CSS`
