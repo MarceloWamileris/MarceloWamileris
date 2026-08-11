@@ -1,19 +1,6 @@
 <div align="center">
-<img src="./assets/ink.jpg" width="100%">
-<br><br>
-<h1>𝑴𝒂𝒓𝒄𝒆𝒍𝒐 𝑾𝒂𝒎𝒊𝒍𝒆𝒓𝒊𝒔</h1>
-<br>
-<p>
-E s t u d a n t e &nbsp; d e &nbsp; A D S
-&nbsp; · &nbsp;
-D e s e n v o l v e d o r &nbsp; e m &nbsp; f o r m a ç ã o
-&nbsp; · &nbsp; 🇧🇷
-</p>
-<br>
-◇
-</div>
-<br>
-<table width="100%">
+
+<table width="90%">
 <tr>
 <td width="33%" align="center" valign="top">
 <h3 align="center">S O B R E</h3>
@@ -51,24 +38,4 @@ avaliações da faculdade.
 <td width="1%" align="center" valign="top">
 │
 </td>
-<td width="33%" align="center" valign="top">
-<h3 align="center">T E C N O L O G I A S</h3>
-<hr>
-<p align="center">
-<code>PYTHON</code> · <code>JAVASCRIPT</code> · <code>C</code>
-</p>
-<hr>
-<p align="center">
-<code>HTML</code> · <code>CSS</code>
-</p>
-<hr>
-<p align="center">
-<code>GIT</code> · <code>GITHUB</code> · <code>VS CODE</code>
-</p>
-</td>
-</tr>
-</table>
-<br><br>
-<div align="center">
-/ &nbsp;&nbsp; sobre &nbsp;&nbsp; / &nbsp;&nbsp; projetos &nbsp;&nbsp; / &nbsp;&nbsp; tecnologias &nbsp;&nbsp; /
-</div>
+<td width="33%" align="center"
