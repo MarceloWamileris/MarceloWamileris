@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./assets/ink.jpg" width="100%">
+<img src="./assets/ink.jpg" width="50%">
 <br><br>
 <h1>𝑴𝒂𝒓𝒄𝒆𝒍𝒐 𝑾𝒂𝒎𝒊𝒍𝒆𝒓𝒊𝒔</h1>
 <br>
