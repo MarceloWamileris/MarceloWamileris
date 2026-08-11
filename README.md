@@ -2,34 +2,98 @@
 
 <img src="./assets/ink.jpg" width="850">
 
-# 𝑴𝒂𝒓𝒄𝒆𝒍𝒐 𝑾𝒂𝒎𝒊𝒍𝒆𝒓𝒊𝒔
+<br><br>
 
-**Estudante de Análise e Desenvolvimento de Sistemas** · 🇧🇷
+𝑴𝒂𝒓𝒄𝒆𝒍𝒐 𝑾𝒂𝒎𝒊𝒍𝒆𝒓𝒊𝒔
+
+<br>
+
+e s t u d a n t e   d e   A D S   ·   d e s e n v o l v e d o r   e m   f o r m a ç ã o   ·   🇧🇷
+
+<br>
+
+◇
 
 </div>
 
-<br>
+<table>
+<tr>
 
-### sobre
+<td width="32%" valign="top">
 
-Desenvolvimento de software · Automação · Desenvolvimento web
-
-Atualmente estudando **Python, JavaScript e C**.
-
-<br>
-
-### projetos
-
-**◈ Einar — Repositório de Provas**
-
-Bot do Telegram desenvolvido para receber, organizar
-e disponibilizar as avaliações da faculdade.
-
-`Python` · `Telegram` · `GitHub`
+S O B R E
 
 <br>
 
-### tecnologias
+Desenvolvimento de softwareAutomaçãoDesenvolvimento web
 
-`Python` · `JavaScript` · `C`  
-`HTML` · `CSS` · `Git` · `GitHub` · `VS Code`
+<br>
+
+—
+
+<br>
+
+Atualmente estudandoPython, JavaScript e C.
+
+</td>
+
+<td width="1%" valign="top" align="center">
+
+│
+
+</td>
+
+<td width="34%" valign="top">
+
+P R O J E T O S
+
+<br>
+
+◈ Einar — Repositório de Provas
+
+Bot do Telegram para receber,organizar e disponibilizar asavaliações da faculdade.
+
+<br>
+
+—
+
+<br>
+
+PYTHON · TELEGRAM · GITHUB
+
+</td>
+
+<td width="1%" valign="top" align="center">
+
+│
+
+</td>
+
+<td width="32%" valign="top">
+
+T E C N O L O G I A S
+
+<br>
+
+PYTHON   ·   JAVASCRIPT   ·   C
+
+<br>
+
+HTML   ·   CSS
+
+<br>
+
+GIT   ·   GITHUB   ·   VS CODE
+
+</td>
+
+</tr>
+</table>
+
+<br><br>
+
+<div align="center">
+
+/    sobre    /    projetos    /    tecnologias    /
+
+</div>
