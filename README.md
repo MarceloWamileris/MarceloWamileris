@@ -5,31 +5,37 @@
 <br>
 
 <div align="center">
-<table>
+<table width="90%">
 <tr>
-<td align="center" width="500">
+<td align="center" valign="top" width="33%">
 
-<br>
-
-<sub>SOBRE</sub>
+### Sobre
 
 Desenvolvimento de software, automação e desenvolvimento web.
+
 Atualmente estudando Python, JavaScript e C.
 
-<br><br>
+</td>
+<td align="center" valign="top" width="33%">
 
-<sub>PROJETOS</sub>
+### Projetos
 
-**Einar** — Repositório de Provas
+◈ **Einar** — Repositório de Provas
+
 Bot do Telegram para receber, organizar e disponibilizar as avaliações da faculdade.
 
-<br><br>
+`Python` `Telegram`
 
-<sub>TECNOLOGIAS</sub>
+</td>
+<td align="center" valign="top" width="33%">
 
-`Python` `JavaScript` `C` `HTML` `CSS` `Git` `GitHub`
+### Tecnologias
 
-<br>
+`Python` `JavaScript` `C`
+
+`HTML` `CSS`
+
+`Git` `GitHub`
 
 </td>
 </tr>
