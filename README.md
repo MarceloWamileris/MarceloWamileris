@@ -38,4 +38,22 @@ avaliações da faculdade.
 <td width="1%" align="center" valign="top">
 │
 </td>
-<td width="33%" align="center"
+<td width="33%" align="center" valign="top">
+<h3 align="center">T E C N O L O G I A S</h3>
+<hr>
+<p align="center">
+<code>PYTHON</code> · <code>JAVASCRIPT</code> · <code>C</code>
+</p>
+<hr>
+<p align="center">
+<code>HTML</code> · <code>CSS</code>
+</p>
+<hr>
+<p align="center">
+<code>GIT</code> · <code>GITHUB</code> · <code>VS CODE</code>
+</p>
+</td>
+</tr>
+</table>
+
+</div>
