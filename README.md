@@ -5,7 +5,7 @@
 
 <table width="90%" align="center">
 <tr>
-<td width="33%" valign="top">
+<td width="33%" align="center" valign="top">
 
 ### Sobre
 
@@ -14,7 +14,7 @@ Desenvolvimento de software, automação e desenvolvimento web.
 Atualmente estudando Python, JavaScript e C.
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" align="center" valign="top">
 
 ### Projetos
 
@@ -25,13 +25,23 @@ Bot do Telegram para receber, organizar e disponibilizar as avaliações da facu
 `Python` `Telegram`
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" align="center" valign="top">
 
 ### Tecnologias
 
-`Python` `JavaScript` `C`
-`HTML` `CSS`
-`Git` `GitHub`
+`Python`
+
+`JavaScript`
+
+`C`
+
+`HTML`
+
+`CSS`
+
+`Git`
+
+`GitHub`
 
 </td>
 </tr>
