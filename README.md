@@ -22,7 +22,7 @@ Atualmente estudando Python, JavaScript e C.
 
 ◈ **Einar** — Repositório de Provas
 
-Bot do Telegram para receber, organizar e disponibilizar as avaliações da faculdade.
+Bot do Telegram que automatiza o recebimento, organização e disponibilização de avaliações da FAETERJ (Quintino).
 
 `Python` `Telegram`
 
