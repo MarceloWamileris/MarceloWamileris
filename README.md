@@ -1,4 +1,20 @@
 <div align="center">
+<img src="./assets/ink.jpg" width="100%">
+<br><br>
+<h1>𝑴𝒂𝒓𝒄𝒆𝒍𝒐 𝑾𝒂𝒎𝒊𝒍𝒆𝒓𝒊𝒔</h1>
+<br>
+<p>
+E s t u d a n t e &nbsp; d e &nbsp; A D S
+&nbsp; · &nbsp;
+D e s e n v o l v e d o r &nbsp; e m &nbsp; f o r m a ç ã o
+&nbsp; · &nbsp; 🇧🇷
+</p>
+<br>
+◇
+</div>
+<br>
+
+<div align="center">
 
 <table width="90%">
 <tr>
@@ -56,4 +72,9 @@ avaliações da faculdade.
 </tr>
 </table>
 
+</div>
+
+<br><br>
+<div align="center">
+/ &nbsp;&nbsp; sobre &nbsp;&nbsp; / &nbsp;&nbsp; projetos &nbsp;&nbsp; / &nbsp;&nbsp; tecnologias &nbsp;&nbsp; /
 </div>
