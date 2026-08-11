@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/ink.jpg" width="850">
+<img src="./assets/ink.jpg" width="500">
 
 <br><br>
 
@@ -8,7 +8,7 @@
 
 <br>
 
-e s t u d a n t e   d e   A D S   ·   d e s e n v o l v e d o r   e m   f o r m a ç ã o   ·   🇧🇷
+E s t u d a n t e   d e   A D S   ·   D e s e n v o l v e d o r   e m   f o r m a ç ã o   ·   🇧🇷
 
 <br>
 
