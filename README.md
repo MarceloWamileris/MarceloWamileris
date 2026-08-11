@@ -35,7 +35,7 @@ Bot do Telegram para receber, organizar e disponibilizar as avaliações da facu
 
 `HTML` `CSS`
 
-`Git` `GitHub`
+`Git` `GitHub` `SQLite`
 
 </td>
 </tr>
