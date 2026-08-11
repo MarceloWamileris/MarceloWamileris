@@ -1,14 +1,19 @@
 <div align="center">
 
-<img src="./assets/ink.jpg" width="100%">
+<img src="./assets/ink-banner.png" width="100%">
 
 <br><br>
 
-# 𝑴𝒂𝒓𝒄𝒆𝒍𝒐 𝑾𝒂𝒎𝒊𝒍𝒆𝒓𝒊𝒔
+<h1>𝑴𝒂𝒓𝒄𝒆𝒍𝒐 𝑾𝒂𝒎𝒊𝒍𝒆𝒓𝒊𝒔</h1>
 
 <br>
 
-E s t u d a n t e &nbsp; d e &nbsp; A D S &nbsp; · &nbsp; D e s e n v o l v e d o r &nbsp; e m &nbsp; f o r m a ç ã o &nbsp; · &nbsp; 🇧🇷
+<p>
+E s t u d a n t e &nbsp; d e &nbsp; A D S
+&nbsp; · &nbsp;
+D e s e n v o l v e d o r &nbsp; e m &nbsp; f o r m a ç ã o
+&nbsp; · &nbsp; 🇧🇷
+</p>
 
 <br>
 
@@ -23,22 +28,22 @@ E s t u d a n t e &nbsp; d e &nbsp; A D S &nbsp; · &nbsp; D e s e n v o l v e d
 
 <td width="33%" valign="top">
 
-### S O B R E
+<h3>S O B R E</h3>
 
-<br>
+<hr>
 
-Desenvolvimento de software  
-Automação  
+<p>
+Desenvolvimento de software<br>
+Automação<br>
 Desenvolvimento web
+</p>
 
-<br>
+<p>—</p>
 
-—
-
-<br>
-
-Atualmente estudando  
+<p>
+Atualmente estudando<br>
 Python, JavaScript e C.
+</p>
 
 </td>
 
@@ -50,23 +55,25 @@ Python, JavaScript e C.
 
 <td width="32%" valign="top">
 
-### P R O J E T O S
+<h3>P R O J E T O S</h3>
 
-<br>
+<hr>
 
-**◈ Einar — Repositório de Provas**
+<p>
+<strong>◈ Einar — Repositório de Provas</strong>
+</p>
 
-Bot do Telegram para receber,  
-organizar e disponibilizar as  
+<p>
+Bot do Telegram para receber,<br>
+organizar e disponibilizar as<br>
 avaliações da faculdade.
+</p>
 
-<br>
+<p>—</p>
 
-—
-
-<br>
-
-`PYTHON` · `TELEGRAM` · `GITHUB`
+<p>
+<code>PYTHON</code> · <code>TELEGRAM</code> · <code>GITHUB</code>
+</p>
 
 </td>
 
@@ -78,23 +85,25 @@ avaliações da faculdade.
 
 <td width="33%" valign="top">
 
-### T E C N O L O G I A S
+<h3>T E C N O L O G I A S</h3>
 
-<br>
+<hr>
 
-`PYTHON` · `JAVASCRIPT` · `C`
+<p>
+<code>PYTHON</code> · <code>JAVASCRIPT</code> · <code>C</code>
+</p>
 
-<br>
+<hr>
 
----
+<p>
+<code>HTML</code> · <code>CSS</code>
+</p>
 
-`HTML` · `CSS`
+<hr>
 
-<br>
-
----
-
-`GIT` · `GITHUB` · `VS CODE`
+<p>
+<code>GIT</code> · <code>GITHUB</code> · <code>VS CODE</code>
+</p>
 
 </td>
 
